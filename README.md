@@ -69,13 +69,14 @@ Isso facilita a organização dos dados e futuras análises dos scout que querem
 ## 4. Conclusão  
 
 O nosso projeto demonstra de forma simples como o IoT pode ser aplicado no esporte para monitoramento e análise em tempo real.  
-Com a integração entre ESP32, MQTT e Node-RED, foi possível criar uma solução prática que coleta, transmite e exibe dados automaticamente das jogadoras, trazendo eficiência e novas possibilidades para o acompanhamento do desempenho esportivo no geral.
+Com a integração entre ESP32, MQTT e Node-RED, foi possível criar uma solução prática que coleta, transmite e exibe dados automaticamente das jogadoras, trazendo eficiência e novas possibilidades para o acompanhamento do desempenho esportivo no geral.  
 
-
+  
 Link do vídeo do nosso projeto no youtube:
-https://www.youtube.com/watch?v=IR94m_3z8Ys
+https://www.youtube.com/watch?v=IR94m_3z8Ys  
 
 
+  
 Representação do nosso diagrama no NODE-RED:
 
 
