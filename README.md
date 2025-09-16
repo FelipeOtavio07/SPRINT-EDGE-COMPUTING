@@ -84,7 +84,7 @@ Representação do nosso diagrama no NODE-RED:
 
 
 
-Nosso Código realizado no Wokwi(Programa utilizado para fazer a simulação).
+Nosso Código realizado no Wokwi (Programa utilizado para fazer a simulação).
 
 #include <WiFi.h>
 #include <PubSubClient.h>
