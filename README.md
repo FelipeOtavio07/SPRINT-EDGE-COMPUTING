@@ -80,7 +80,7 @@ Com a integração entre ESP32, MQTT e Node-RED, foi possível criar uma soluç�
   
 
 ## Link do vídeo completo do nosso projeto no youtube:
-https://www.youtube.com/watch?v=IR94m_3z8Ys  
+[![Clique para assistir ao vídeo](https://img.youtube.com/vi/IR94m_3z8Ys/hqdefault.jpg)](https://www.youtube.com/watch?v=IR94m_3z8Ys)  
 
 
 
