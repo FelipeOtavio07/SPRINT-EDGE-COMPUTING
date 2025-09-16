@@ -73,7 +73,7 @@ Com a integração entre ESP32, MQTT e Node-RED, foi possível criar uma soluç�
 
 
 
-Representação do nosso diagrama no NODE-RED:
+## Representação do nosso diagrama no NODE-RED:
 
 <img width="655" height="197" alt="image" src="https://github.com/user-attachments/assets/4a609b08-97bd-41df-bfe8-3bee15df2eb1" />
 
